@@ -2,15 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm YASSINE BOUDAIRA</h1>
 <h3 align="center">Technicen specialized informatique devlopement</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Yassine-Boudaira/Yassine-Boudaira/blob/main/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/YassineBoudaira/YassineBoudaira/blob/main/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yassine-Boudaira&label=Profile%20views&color=0e75b6&style=flat" alt="Yassine-Boudaira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YassineBoudaira&label=Profile%20views&color=0e75b6&style=flat" alt="YassineBoudaira" /> </p>
 
 - 🌱 I’m currently a **full stack web devlopper.**
 - 🌱 I’m currently learning **more programing languages,**
 
 
-- 👨‍💻 Explore my projects at [Yassine-Boudaira](https://yassineboudaira.github.io)
+- 👨‍💻 Explore my projects at [YassineBoudaira](https://yassineboudaira.github.io)
 
 - 📝 I regularly write articles on [informatique support,animals,tech,Computer science,](https://www.facebook.com/lamohtam-blog)
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yassineboudaira/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yassine-Boudaira/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yassineboudaira/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YassineBoudaira/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,15 +38,15 @@
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+ <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> -->
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yassine-Boudaira&show_icons=true&locale=en" alt="Yassine-Boudaira" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YassineBoudaira&show_icons=true&locale=en" alt="YassineBoudaira" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yassine-Boudaira&" alt="Yassine-Boudaira" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YassineBoudaira&" alt="YassineBoudaira" /></p>
 
 <h3>The snake is eating my contribution graphic</h3>
-  <img src="https://github.com/Yassine-Boudaira/Yassine-Boudaira/blob/output/github-contribution-grid-snake.gif" alt="contributions_graph"/>
+  <img src="https://github.com/YassineBoudaira/YassineBoudaira/blob/output/github-contribution-grid-snake.gif" alt="contributions_graph"/>
 
