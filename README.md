@@ -1,6 +1,5 @@
-# Profile Description of ME
-
 <h1 align="center">Hi 👋, I'm YASSINE BOUDAIRA</h1>
+<h1 align="center">Profile Description of ME</h1
 <h3 align="center">Technicen specialized informatique devlopement</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/YassineBoudaira/YassineBoudaira/blob/main/giphy.gif">
 
